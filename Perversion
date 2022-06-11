@@ -1,0 +1,13 @@
+https://github.com/stixxlee/stixxlee.git<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/stixxlee</id>
+  <link type="text/html" rel="alternate" href="https://github.com/stixxlee"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/stixxlee.private.atom?token=AT7GWOWHTPCZX2L2XS4ZBFWAWEHVA"/>
+  <title>Private Feed for stixxlee</title>
+  <updated>2021-05-06T13:58:10-04:00</updated>
+</feed> --verbose | -v] [--dry-run | -n] [--force | -f] [--interactive | -i] [--patch | -p]
+	  [--edit | -e] [--[no-]all | --[no-]ignore-removal | [--update | -u]] [--sparse]
+	  [--intent-to-add | -N] [--refresh] [--ignore-errors] [--ignore-missing] [--renormalize]
+	  [--chmod=(+|-)x] [--pathspec-from-file=<file> [--pathspec-file-nul]]
+	  [--] [<pathspec>…​]
+DESCRIPTION
